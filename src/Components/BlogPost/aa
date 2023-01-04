@@ -1,0 +1,24 @@
+<div className="col-lg-4">
+          <figure>
+            <img src={blogpostimg2} alt="blogpostimg2 not found" className='img-fluid blog-img' />
+          </figure>
+          <figure>
+            <img src={blogpostimg2} alt="blogpostimg2 not found" className='img-fluid blog-img' />
+          </figure>
+        </div>
+
+
+        .col-hgt{
+          height: 300px;
+        }
+        
+        /* .bgp-1{
+          width: 100%;
+          height: 260px;
+        } */
+        
+         /* .blog-img{
+          width: 100%;
+        height: 135px;
+        
+        }   */

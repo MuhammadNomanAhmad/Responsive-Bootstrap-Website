@@ -1,0 +1,31 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.brnd-name{
+  color: rgb(204, 196, 196) !important;
+  font-weight: bold;
+  font-family: 'Cookie', cursive
+  !important;
+  font-size: 35px !important;
+}
+
+/* .font{
+  font-size: 20px;
+} */
+
+/* .navbar{
+  position: absolute;
+}
+.n-bar{
+  
+} */
+
+@media (max-width:768px) {
+  .f-size{
+    font-size: 20px !important;
+    font-weight: bold;
+  }
+  
+}

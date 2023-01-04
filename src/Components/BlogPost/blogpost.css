@@ -1,0 +1,94 @@
+.bg-color{
+  background-color: rgb(98, 247, 98);
+  padding: 30px 0;
+}
+
+.hr-line{
+  width: 50px;
+  height: 5px !important;
+}
+.bg-img1{
+  background-image: url('../../Assets/blogpostimg1.jpg') !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 10px 0;
+  /* margin-right: 20px; */
+
+height: 420px;
+}
+.bgimg1-text{
+  background-color: rgba(0, 0, 0, 0.589);
+  width: 100%;
+ 
+}
+.bg-img2{
+  background-image: url('../../Assets/blogpostimg2.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 200px;
+ margin: 10px 0;
+  
+}
+.bgimg2-text{
+  background-color: rgba(0, 0, 0, 0.589);
+}
+.bg-img3{
+  background-image: url('../../Assets/blogpostimg3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  margin-top: 20px;
+}
+.bgimg3-text{
+  background-color: rgba(0, 0, 0, 0.589);
+  width: 100%;
+}
+
+p{
+  margin: 0;
+}
+
+
+/* // X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap */
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  
+  .bg-img2{
+    height: 400px;
+  }
+  .bg-img3{
+    height: 400px;
+  }
+  }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+  
+  .bg-img2{
+    height: 400px;
+  }
+  .bg-img3{
+    height: 400px;
+  } }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+ 
+  .bg-img2{
+    height: 200px;
+  }
+  .bg-img3{
+    height: 200px;
+  }
+}
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  }
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {  }

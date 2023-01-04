@@ -1,0 +1,12 @@
+.card{
+  padding: 20px;
+}
+
+.card h6{
+  font-weight: bolder;
+  color: rgba(72, 248, 72, 0.836);
+}
+.card p{
+  font-size: 10px;
+  color: lightslategray;
+}

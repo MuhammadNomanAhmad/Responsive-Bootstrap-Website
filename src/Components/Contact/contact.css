@@ -1,0 +1,57 @@
+.last-bgimg{
+  
+  
+  background: linear-gradient(rgba(0, 0, 0, 0.801), rgba(0, 0, 0, 0.801)),url('../../Assets/footer.jpg'); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  /* height: auto;
+  width: 100%; */
+}
+
+.footer-line{
+  width: 35px;
+  height: 5px !important;
+  margin: 0;
+}
+
+
+
+
+.input-area{
+  background-color: rgba(119, 117, 117, 0.404) !important;
+  border: 1px solid rgba(0, 0, 0, 0.438);
+  padding: 6px 5px;
+  color: white !important;
+}
+
+.textarea-clr{
+  background-color: rgba(119, 117, 117, 0.404) !important;
+  border: 1px solid rgba(0, 0, 0, 0.438);
+  padding: 6px 5px;
+  color: white !important;
+}
+.last-btn{
+  margin-top: 15px;
+  border-radius: 25px !important;
+  background-color: rgb(138, 226, 138);
+  color: white !important;
+  padding: 7px 35px !important;
+}
+
+/* // Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+ 
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {  }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  }

@@ -1,0 +1,12 @@
+.intro h4 {
+  margin-top: 40px;
+}
+
+.crd-center h6 {
+  font-weight: 700;
+}
+
+.service-box {
+  box-shadow: 0 6px 30px rgba(0, 0, 0, 0.562);
+  padding: 15px;
+}

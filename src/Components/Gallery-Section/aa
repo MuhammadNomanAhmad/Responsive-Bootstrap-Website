@@ -1,0 +1,31 @@
+<section className='gallery'>
+<div className="container-fluid bg-light ">
+  <div className="row ">
+    <div className="col-8  ">
+      <div className="row  my-5">
+      <div className="col-12">
+      <div className="portfolio text-center">
+        <h5>OUR PORTFOLIO</h5>
+        <hr className='line mx-auto'/>
+      </div>
+      </div>
+<div className="list d-flex  justify-content-center ">
+{/* <ul class="list-container list-unstyled">
+  <li class="list-item">All</li>
+  <li class="list-item">Nature</li>
+  <li class="list-item">Workspace</li>
+  <li class="list-item">City</li>
+  <li class="list-item">Technology</li>
+</ul> */}
+</div>
+
+           <div className="col-3">Hello</div>
+          <div className="col-3">Hello</div>
+          <div className="col-3">Hello</div>
+          <div className="col-3">Hello</div>
+       
+      </div>
+    </div>
+  </div>
+</div>
+   </section>
